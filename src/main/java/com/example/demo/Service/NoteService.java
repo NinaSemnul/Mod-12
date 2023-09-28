@@ -1,6 +1,6 @@
-package Service;
+package com.example.demo.Service;
 
-import Entity.Note;
+import com.example.demo.Entity.Note;
 import org.springframework.stereotype.Service;
 import java.util.ArrayList;
 import java.util.HashMap;
